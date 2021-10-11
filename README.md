@@ -6,7 +6,7 @@ I am making games bc its fun!
 
 Skills: C#/python/
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
