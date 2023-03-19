@@ -14,8 +14,8 @@
 
     
   
-    <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/python.png" width="42" alt="Python"></img></a> 
-   </a> 
+   
+  
     <a href="https://www.unity.com/"><img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/unity.png" width="42" alt="Unity"></img></a>
 </p><br><br>
 
