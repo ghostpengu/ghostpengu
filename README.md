@@ -10,13 +10,14 @@
 </img></a>
     <a href="https://www.microsoft.com/"><img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/c%23.png" width="42" alt="C#"></img></a> 
     <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/css.png" width="42" alt="CSS"></img></a> 
-    <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/html.png" width="42" alt="HTML"></img></a> 
+    <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/html.png" width="42" alt="HTML"></img></a>
+    <a href="https://www.unity.com/"><img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/unity.png" width="42" alt="Unity"></img></a>
 
     
   
    
   
-   <a href="https://www.unity.com/"><img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/unity.png" width="42" alt="Unity"></img></a>
+
 </p><br><br>
 
 <h1 align="center">
