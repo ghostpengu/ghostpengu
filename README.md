@@ -1,6 +1,6 @@
 
 
-<p><img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/flushedpepe.png" width="24"></img> <b>Hey!</b> Welcome on my <img  profile!<br>I'm guy creating 3D in <b> I also really like experimenting with <b><img src="https://raw.githubusercontent.com/PedrexDev/PedrexDev/main/assets/linux.png" width="16"></img> Linux</b>, it's one of my favorite open-source operating systems.</p><br><br>
+ <b>Hey!</b> Welcome on my <img  profile!<br>I'm guy creating 3D in <b> I also really like experimenting with <b> Linux</b>, it's one of my favorite open-source operating systems.</p><br><br>
 
 <h1 align="center">
    Languages & frameworks I know
