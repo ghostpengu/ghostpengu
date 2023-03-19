@@ -28,11 +28,6 @@
   <img src="https://profile-counter.glitch.me/ghostpengu/count.svg"></img>
 </p><br><br>
   
-<p align="center" style="text-decoration: none;">
-    <a href="https://github.com/PedrexDev/my-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedrexDev&repo=my-website&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=0094FF&hide_border=true/" />
-    </a>
-</p>
 
 
 
