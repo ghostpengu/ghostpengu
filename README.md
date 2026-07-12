@@ -50,6 +50,11 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>📊 <a href="https://github.com/ghostpengu/backtester">backtester</a></h3>
+      <p>Options backtesting engine with VPIN strategies and feature testing. Core research tool for financial market analysis.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%">
       <h3>🛡️ <a href="https://github.com/ghostpengu/Diddycrypt">Diddycrypt</a></h3>
       <p>CLI encryption/decryption tool for securing folders. Minimal, fast, written in Rust.</p>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
@@ -62,12 +67,24 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
     <td width="50%">
-      <h3>🎮 <a href="https://github.com/ghostpengu/rustcraft-dashboard">rustcraft-dashboard</a></h3>
-      <p>Rust-based dashboard for managing Minecraft server infrastructure. Clean UI, server control via terminal.</p>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+      <h3>📓 <a href="https://github.com/Skystreamsolutions/LogBook">LogBook</a> @ Skystream</h3>
+      <p>Internal logging and record-keeping system built under Skystream Solutions.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3>🎤 <a href="https://github.com/ghostpengu/TikTok-video-generator">TikTok-video-generator</a></h3>
+      <p>Text-to-Speech TikTok video generator — automated content creation pipeline in Python.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3>🔐 <a href="https://github.com/ghostpengu/PlesAutoClicker">PlesAutoClicker</a></h3>
+      <p>Open source auto clicker built with Python and Selenium.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
