@@ -78,14 +78,14 @@
 
 <div align="center">
 
-![ghostpengu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostpengu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostpengu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff&count_private=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=ghostpengu&theme=onestar&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghostpengu&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
+
+![](https://komarev.com/ghpvc/?username=ghostpengu&style=flat-square&color=00ff9c&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -108,7 +108,5 @@ class ghostpengu:
 <div align="center">
 
 *"The market is a teacher. Most people just don't pay the tuition."*
-
-[![](https://visitcount.itsvg.in/api?id=ghostpengu&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
