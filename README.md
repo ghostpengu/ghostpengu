@@ -21,7 +21,7 @@
 > Developer and independent researcher at **[Skystream Solutions](https://github.com/Skystreamsolutions)** based in Slovakia. I build trading systems, financial market research tooling, and internal AI-driven programs that streamline company operations — mostly in **Rust** and **Python**. I move fast, break things, and document rarely.
 
 - 📈 Focused on **financial market research**, **options trading**, and **volatility strategies**
-- 🧠 Deep interest in **market microstructure**, VPIN analysis, and quant strategy development
+- 🧠 Deep interest in **market microstructure**, VPIN analysis, and strategy development
 - 🦀 Strong preference for **Rust** for performance-critical systems
 - 🐍 **Python** for research, backtesting, and rapid prototyping
 - 🔗 Strong advocate for **decentralisation** — interested in blockchain tech, open financial systems, and trustless infrastructure
