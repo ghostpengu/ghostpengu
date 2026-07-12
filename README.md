@@ -21,7 +21,7 @@
 > Developer and independent researcher at **[Skystream Solutions](https://github.com/Skystreamsolutions)** based in Slovakia. I build trading systems, financial market research tooling, and internal AI-driven programs that streamline company operations — mostly in **Rust** and **Python**. I move fast, break things, and document rarely.
 
 - 📈 Focused on **financial market research**, **options trading**, and **volatility strategies**
-- 🧠 Deep interest in **market microstructure**, and strategy development
+- 🧠 Deep interest in **market microstructure**, VPIN analysis, and strategy development
 - 🦀 Strong preference for **Rust** for performance-critical systems
 - 🐍 **Python** for research, backtesting, and rapid prototyping
 - 🔗 Strong advocate for **decentralisation** — interested in blockchain tech, open financial systems, and trustless infrastructure
@@ -51,7 +51,7 @@
   <tr>
     <td width="50%">
       <h3>📊 <a href="https://github.com/ghostpengu/backtester">backtester</a></h3>
-      <p>Options backtesting engine with strategies and feature testing. Core research tool for financial market analysis.</p>
+      <p>Options backtesting engine with VPIN strategies and feature testing. Core research tool for financial market analysis.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td width="50%">
@@ -63,8 +63,10 @@
   <tr>
     <td width="50%">
       <h3>⚡ <a href="https://github.com/ghostpengu/Wraith">Wraith</a></h3>
-      <p>TypeScript project under active development at Skystream Solutions — details undisclosed.</p>
+      <p>Tauri desktop app under active development at Skystream Solutions — details undisclosed.</p>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white"/>
     </td>
     <td width="50%"></td>
   </tr>
@@ -92,7 +94,7 @@ class ghostpengu:
     company    = "Skystream Solutions"
     focus      = ["financial market research", "volatility trading", "market making"]
     building   = ["options backtester", "Polymarket MM bot", "private trading infra"]
-    learning   = ["latency arbitrage", "microstructure", "blockchain & DeFi"]
+    learning   = ["latency arbitrage", "VPIN microstructure", "blockchain & DeFi"]
     stack      = ["Rust", "Python", "TypeScript", "Linux"]
     believes   = ["decentralisation", "open systems", "trustless finance"]
     philosophy = "Austrian economics. Systems thinking. Ship or die."
@@ -104,6 +106,6 @@ class ghostpengu:
 
 *"The market is a teacher. Most people just don't pay the tuition."*
 
-![Profile Views](https://profile-counter.glitch.me/ghostpengu/count.svg)
+[![](https://visitcount.itsvg.in/api?id=ghostpengu&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
