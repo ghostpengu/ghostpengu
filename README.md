@@ -66,23 +66,7 @@
       <p>TypeScript project under active development at Skystream Solutions — details undisclosed.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
-    <td width="50%">
-      <h3>📓 <a href="https://github.com/Skystreamsolutions/LogBook">LogBook</a> @ Skystream</h3>
-      <p>Internal logging and record-keeping system built under Skystream Solutions.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎤 <a href="https://github.com/ghostpengu/TikTok-video-generator">TikTok-video-generator</a></h3>
-      <p>Text-to-Speech TikTok video generator — automated content creation pipeline in Python.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <h3>🔐 <a href="https://github.com/ghostpengu/PlesAutoClicker">PlesAutoClicker</a></h3>
-      <p>Open source auto clicker built with Python and Selenium.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
