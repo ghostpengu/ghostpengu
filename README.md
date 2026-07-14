@@ -70,7 +70,7 @@
     </td>
     <td width="50%">
       <h3>🎓 <a href="https://davajbacha.app/en">DAVAJ-BACHA</a></h3>
-      <p>Diagnostic and educational platform teaching students to respond to online threats — grooming, phishing, deepfakes, cyberbullying — before a real incident happens. Built for Ideathon 2026, Košice. QR-access, anonymous dashboard, measurable outcomes.</p>
+      <p>Diagnostic and educational platform teaching students to respond to online threats — grooming, phishing, deepfakes, cyberbullying — before a real incident happens. Built for Ideathon 2026. QR-access, anonymous dashboard, measurable outcomes.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Education-00C853?style=flat-square"/>
     </td>
