@@ -68,7 +68,12 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white"/>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <h3>🎓 <a href="https://davajbacha.app/en">DAVAJ-BACHA</a></h3>
+      <p>Diagnostic and educational platform teaching students to respond to online threats — grooming, phishing, deepfakes, cyberbullying — before a real incident happens. Built for Ideathon 2026, Košice. QR-access, anonymous dashboard, measurable outcomes.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Education-00C853?style=flat-square"/>
+    </td>
   </tr>
 </table>
 
@@ -92,7 +97,7 @@
 class ghostpengu:
     company    = "Skystream Solutions"
     focus      = ["financial market research", "volatility trading", "market making"]
-    building   = ["options backtester", "Polymarket MM bot", "private trading infra"]
+    building   = ["options backtester", "Polymarket MM bot", "private trading infra", "DAVAJ-BACHA"]
     learning   = ["latency arbitrage", "microstructure", "blockchain & DeFi"]
     stack      = ["Rust", "Python", "TypeScript", "Linux"]
     believes   = ["decentralisation", "open systems", "trustless finance"]
